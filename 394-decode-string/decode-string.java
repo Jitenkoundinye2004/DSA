@@ -1,6 +1,6 @@
 class Solution {
     public String decodeString(String s) {
-        Stack<Integer> count = new Stack<>();
+         Stack<Integer> count = new Stack<>();
         Stack<String> Str = new Stack<>();
 
         int num = 0;
